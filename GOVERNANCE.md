@@ -2,7 +2,7 @@
 <!-- omit in toc -->
 # GitOps Working Group Governance
 
-This document <https://github.com/gitops-working-group/gitops-working-group/blob/main/GOVERNANCE.md> defines the governance process for the GitOps Working Group project and community.
+This document <https://github.com/gitops-working-group/gitops-working-group/blob/main/GOVERNANCE.md> defines the governance process for the OpenGitOps project and the GitOps Working Group and community.
 
 - [Values](#values)
   - [Code of Conduct](#code-of-conduct)
@@ -40,21 +40,21 @@ If no conclusion can be reached in meditation, such issues can be escalated to t
 
 ## Roles in the GitOps Working Group Community
 
-The GitOps Working Group community comprises the following roles:
+The OpenGitOps and GitOps Working Group community comprises the following roles:
 
 ### Users
 
-GitOps end users are the most important aspect of the community, without whom the project would have no purpose. Users are anyone who has a need for the project.
+OpenGitOps end users are the most important aspect of the community, without whom the project would have no purpose. Users are anyone who has a need for the project.
 Apart from following the Code of Conduct, there are no special requirements.
 
 ### Contributors
 
-The GitOps Working Group welcomes all kinds of contributions, including code, issues, documentation, external tools, advocacy and community work.
+The OpenGitOps project welcomes all kinds of contributions, including code, issues, documentation, external tools, advocacy and community work.
 As a contributor we want to invite you to join the discussions in a variety of forums laid out in TBD.
 
 ### Maintainers
 
-Maintainers are elected Contributors who showed significant and sustained contributions in a git repository.
+OpenGitOps project Maintainers are elected Contributors who showed significant and sustained contributions in a git repository.
 The initial set of maintainers are drawn from the organizations that proposed the creation of the working group.
 Current Maintainers are listed in a `MAINTAINERS` file at the root of this git repository.
 
@@ -70,7 +70,7 @@ Maintainers will be invited to the `@gitops-working-group/maintainers` <https://
 
 ### Oversight Committee
 
-This committee is responsible for the overall project, and anything not easily managed by the Maintainers of each git repository. Including:
+The OpenGitOps oversight committee is responsible for the overall project, and anything not easily managed by the Maintainers of each git repository. Including:
 
 - Overseeing the project health and growth
 - Maintaining the brand, mission, vision, values, and scope of the overall project
@@ -88,6 +88,19 @@ This committee will initially be comprised of GitOps Working Group Maintainers w
 The aspiration is no one company or organization should have oversight of the overall project, however that is not yet realistic at this stage. The goal is to broaden maintainership to include a wider range of organizations during CNCF incubation.
 
 Oversight Committee members are publicly listed in the `@gitops-working-group/oversight-committee` <https://github.com/orgs/gitops-working-group/teams/oversight-committee> GitHub team.
+
+### Working Group Co-Chairs
+
+The GitOps Working Group draws together individuals who are collaborating on forming content and technology "to provide companies and individuals with the skills, knowledge and competency to implement GitOps tooling and methodologies which simplify the operation and management of infrastructure and cloud native applications" and to care for the OpenGitOps  project.
+
+Co-chairs:
+
+- Ensure that meetings and other activities are conducted and progress continues to be made against the project agenda
+- Have GitOps domain knowledge
+- Will engage deeply in the work being done by the working group - that is, the role is not purely administrative. They are, however not responsible for performing all of the work - this is shared across the working group members and expected from those who have volunteered onto various workstreams.
+- When necessary, will handle human and technical coordination across different working group workstreams.
+
+The working group co-chairs are selected by the members of the working group and are listed in the `CHAIRS` file at the root of this git repository.
 
 ## Decision Making
 
