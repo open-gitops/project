@@ -1,130 +1,125 @@
-<!-- see https://github.com/yzhang-gh/vscode-markdown/blob/master/README.md#table-of-contents -->
-<!-- omit in toc -->
-# GitOps Working Group Governance
+# Governance
 
-This document <https://github.com/gitops-working-group/gitops-working-group/blob/main/GOVERNANCE.md> defines the governance process for the OpenGitOps project and the GitOps Working Group and community.
+This document defines the governance process for the GitOps Working Group and community and OpenGitOps project.
 
-- [Values](#values)
-  - [Code of Conduct](#code-of-conduct)
-- [Roles in the GitOps Working Group Community](#roles-in-the-gitops-working-group-community)
-  - [Users](#users)
-  - [Contributors](#contributors)
-  - [Maintainers](#maintainers)
-  - [Oversight Committee](#oversight-committee)
-- [Decision Making](#decision-making)
-  - [Deciders](#deciders)
-  - [Decision Guidelines](#decision-guidelines)
-  - [Simple Majority Decisions](#simple-majority-decisions)
-  - [Supermajority Decisions](#supermajority-decisions)
-  - [Unanimity Decisions](#unanimity-decisions)
-- [Proposal Process](#proposal-process)
-- [Licenses and Copyright](#licenses-and-copyright)
+## Roles
 
-## Values
+### All Members
 
-- **Open:**
-The GitOps Working Group community strives to be open, accessible and welcoming to everyone.
-Anyone may contribute, and contributions are available to all users according to open source values and licenses.
-- **Transparent:**
-The GitOps Working Group strives for transparency in all discussions, announcements, disclosures and decision making.
-- **Unbiased:**
-The GitOps Working Group strives to operate independently of specific partisan interests, and for decision making to fairly balance the wider community interests of its end users and contributors.
+This is an open public working group welcoming anyone who would like to join and help.
+There are no special requirements for membership apart from the responsibilities listed  below.
+Members are not required to have any explicit roles or additional responsibilities, but they may also have formally assigned roles (see below).
+See the Working Group [README](README.md) for information about volunteering for committees and projects.
+Note that voting requires additional conditions (see [Elections](#elections)).
 
-### Code of Conduct
+Responsibilities:
 
-The GitOps Working Group community adheres to the CNCF Code of Conduct <https://github.com/cncf/foundation/blob/master/code-of-conduct.md>.
+- Must follow the [Code of Conduct](CODE_OF_CONDUCT.md)
+- May not create the impression that they have any authority or formal responsibilities within the GitOps WG other than their explicitly assigned roles
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting a _GitOps Working Group_ Oversight Committee member.
+### Committees
 
-If no conclusion can be reached in meditation, such issues can be escalated to the CNCF mediator, Mishi Choudhary <mishi@linux.com>, in which case CNCF may choose to intervene.
+Working Group [Members](#all-members) may volunteer to join WG Committees and help with specific projects according to their interest and ability.
+Responsibilities vary per committee, but in general please remember everyone is a volunteer.
+Committees follow processes to allow for progress so long as they maintain inclusiveness, transparency, and respect for all involved.
 
-## Roles in the GitOps Working Group Community
+Current WG committees:
 
-The OpenGitOps and GitOps Working Group community comprises the following roles:
-
-### Users
-
-OpenGitOps end users are the most important aspect of the community, without whom the project would have no purpose. Users are anyone who has a need for the project.
-Apart from following the Code of Conduct, there are no special requirements.
-
-### Contributors
-
-The OpenGitOps project welcomes all kinds of contributions, including code, issues, documentation, external tools, advocacy and community work.
-As a contributor we want to invite you to join the discussions in a variety of forums laid out in TBD.
+- Principles Committee
+  - Responsible for drafting the revised GitOps Principles (see [Timeline](#timeline))
+- Events Committee
+  - Responsible for organizing events such as GitOpsCon, and supporting other events in the wider GitOps community (see [Timeline](#timeline))
+- Communications Committee
+  - Reponsible for coordinating public communications on behalf of the working group
 
 ### Maintainers
 
-OpenGitOps project Maintainers are elected Contributors who showed significant and sustained contributions in a git repository.
-The initial set of maintainers are drawn from the organizations that proposed the creation of the working group.
-Current Maintainers are listed in a `MAINTAINERS` file at the root of this git repository.
+Working Group and OpenGitOps project Maintainers are [Members](#all-members) who have shown significant and sustained contributions in the GitOps WG.
+The initial set of Maintainers were drawn from the organizations that proposed the creation of the working group.
+Current Maintainers are listed in a [MAINTAINERS](./MAINTAINERS) file at the root of this git repository.
 
-Maintainers are expected to:
+Responsibilities:
 
 - Enable and promote GitOps Working Group community values
-- Engage with end Users through appropriate communication channels
-- Serve as a point of conflict resolution between Contributors to their git repository
-- Maintain open collaboration with Contributors and other Maintainers
-- Ask for help when unsure and step down considerately
+- Engage with the wider GitOps community through appropriate [communication channels](./README.md#how-to-get-involved)
+- Maintain involvement and open collaboration with working group members and committees
+- Review and approve pull requests
+- Ask for help when unsure and step down considerately when appropriate
 
-Maintainers will be invited to the `@gitops-working-group/maintainers` <https://github.com/orgs/gitops-working-group/teams/maintainers> team, and are members of this team for as long as they are involved with the project.
+The GitHub `@gitops-working-group/maintainers` team will be kept up to date with current maintainers.
 
-### Oversight Committee
+### Chairs
 
-The OpenGitOps oversight committee is responsible for the overall project, and anything not easily managed by the Maintainers of each git repository. Including:
+The GitOps WG and OpenGitOps project will be co-chaired by 3 [Maintainers](#maintainers).
+A maximum of one person from any one entity may hold a chair role at any given moment in order to avoid undue influence, and maintain balanced representation.
+Current chairs are listed in a [CHAIRS.md](./CHAIRS.md) file at the root of this git repository.
 
-- Overseeing the project health and growth
-- Maintaining the brand, mission, vision, values, and scope of the overall project
-- Changes to licensing and intellectual property
-- Administering access to all project assets
-- Administering git repositories as needed
-- Handling Code of Conduct violations
-- Managing financial decisions
-- Defining the scope of each git repository
-- Resolving escalated decisions when Maintainers responsible are blocked
+Responsibilities:
 
-Ultimately the committee - after consulting with the collective of Maintainers and their community - drive the direction, values and governance of the overall project.
-
-This committee will initially be comprised of GitOps Working Group Maintainers who have steered the project prior to this initial Governance document.
-The aspiration is no one company or organization should have oversight of the overall project, however that is not yet realistic at this stage. The goal is to broaden maintainership to include a wider range of organizations during CNCF incubation.
-
-Oversight Committee members are publicly listed in the `@gitops-working-group/oversight-committee` <https://github.com/orgs/gitops-working-group/teams/oversight-committee> GitHub team.
-
-### Working Group Co-Chairs
-
-The GitOps Working Group draws together individuals who are collaborating on forming content and technology "to provide companies and individuals with the skills, knowledge and competency to implement GitOps tooling and methodologies which simplify the operation and management of infrastructure and cloud native applications" and to care for the OpenGitOps  project.
-
-Co-chairs:
-
-- Ensure that meetings and other activities are conducted and progress continues to be made against the project agenda
+- Primary role of Chairs is governance of the Working Group, who collectively care for the OpenGitOps project
+- Ensure the promotion of continued open involvement for the working group
+- Ensure that meetings and other activities are conducted and progress continues to be made against the project agenda, while also engaging other group members in leadership roles
+- Ensure discussion is extended asynchronously to be inclusive of members who cannot attend a specific meeting time
+- Schedule discussion of proposals that have been submitted
+- Partner with Maintainers and other WG members to establish a roadmap and manage ongoing projects
+- Ask for new proposals to be made to address an identified needs
 - Have GitOps domain knowledge
-- Will engage deeply in the work being done by the working group - that is, the role is not purely administrative. They are, however not responsible for performing all of the work - this is shared across the working group members and expected from those who have volunteered onto various workstreams.
-- When necessary, will handle human and technical coordination across different working group workstreams.
+- Engage deeply in the work being done by the working group - that is, the role is not purely administrative.
+  Chairs are, however not responsible for performing all of the work - this is shared across the working group members and expected from those who have volunteered onto various workstreams.
+- When necessary, handle human and technical coordination across different working group workstreams
+- Handle Code of Conduct violations
+- Resolve escalated decisions when Maintainers can not reach consensus
 
-The working group co-chairs are selected by the members of the working group and are listed in the `CHAIRS` file at the root of this git repository.
+Ultimately the chairs - after consulting with the collective of Maintainers and their community - drive the direction, values and governance of the overall project.
+
+The GitHub `@gitops-working-group/chairs` team will be kept up to date with current chairs.
+
+## Elections
+
+[Chairs](#chairs) will be elected for one year terms and may run for reelection.
+
+The election process takes place on the CNCF SIG App Delivery [mailing list](cncf-sig-app-delivery@lists.cncf.io ).
+
+Before each election, there will be a call for nominations on the mailing list.
+Nominations should be sent to the mailing list, and include a brief bio and personal statement describing the candidate's qualifications to serve in this capacity.
+Self-nominations are welcome. Only existing maintainers are eligible for nomination.
+
+The GitOps WG employs "organization voting" to ensure no single organization can dominate the election process or project.
+Up to two individuals from organizations who are both active members of the CNCF and listed in the [interested parties](interested-parties.md) may vote.
+Interested parties must be added at least one week before any election to have a vote.
+Chairs will be elected using Ranked Choice Voting.
+
+Election results will be announced on the mailing list, and current chairs listed in this document will be updated accordingly.
+
+### Special Elections
+
+There are several cases where positions are put up for unscheduled, special elections.
+
+- Stepping down: If an elected chair steps down (or, in rare cases, is removed), a special election will be necessary to fill vacancies
+- Change of affiliation: When affiliations of current chairs change – through job changes, mergers, etc. – and entity becomes overrepresented for a specific role, members of that entity will first be asked if they wish to resign their roles in order to remain within the allotment.
+  If insufficient members resign their roles, the positions held by members associated with that entity will all be put up for a special election
+
+In these cases, positions will be open both to previous holders and to any new nominees.
+The standard nomination and [election](#elections) process will be carried out.
+Representatives elected though this process will serve the remaining part of the current term.
 
 ## Decision Making
 
-### Deciders
-
-- Repository Maintainers: Decisions that affect only one git repository.
-- Oversight Committee: Decisions that are outside the scope of a single git repository.
-
 ### Decision Guidelines
 
-- Decisions that warrant wider input should be made public by using the below guidelines in combination with the Proposal Process below.
-- Whether or not wider input is required, the GitOps Working Group community believes that the best decisions are reached through Consensus <https://en.wikipedia.org/wiki/Consensus_decision-making>.
-- Most decisions start by seeking Lazy Consensus <https://communitymgt.wikia.com/wiki/Lazy_consensus>.
-- If an objection is raised through the Lazy Consensus process, Deciders work together to seek an agreeable solution.
+- The GitOps Working Group believes that the best decisions are reached through Consensus <https://en.wikipedia.org/wiki/Consensus_decision-making>.
+  This applies to all working communication by WG members (see [How To Get Involved](README.md#how-to-get-involved)).
+- Most decisions begin by seeking Lazy Consensus <https://communitymgt.wikia.com/wiki/Lazy_consensus>.
+- If an objection is raised through the Lazy Consensus process, the group works together to seek an agreeable solution.
 - If Consensus can not be reached, but a decision must be made, the next step is try to attempt to agree that a vote should be called.
   This is important, as it gives dissenting views a chance to request more information or raise further points.
-  If Deciders are the Oversight Committee, part of that responsibility is the final point of escalation, so agreeing to a vote is assumed if timeline doesn't allow the consensus process to continue.
-- If Deciders are Repository Maintainers, and they can't agree on calling a vote, they may escalate to the Oversight Committee.
+- If Maintainers can't agree on calling a vote, they may escalate to the Chairs.
   This should only be done at this stage if:
-  1. An unmovable deadline is threatened by continuing the Consensus process; or
+  1. An important deadline is threatened by continuing the Consensus process; or
   2. A Decider feels there is unreasonable blocking of both reaching Consensus and agreeing to a vote.
       This should be rare, due to the social cost of discontinuing the Consensus process for this reason.
       Most decisions should wait for the above process to take its course.
-- If Deciders agree to a vote, the default is a Simple Majority.
+- If maintainers agree to a vote, the default is a Simple Majority.
 - However, there are cases that require stronger voting – Supermajority or Unanimity – specified below:
 
 ### Simple Majority Decisions
@@ -135,38 +130,10 @@ If a vote is called, the default is a Simple Majority Vote <https://en.wikipedia
 
 If a vote is called, the following decisions require a Supermajority Vote <https://en.wikipedia.org/wiki/Supermajority>.
 
-- Oversight Committee: Enforcing a Code of Conduct violation by a community member.
-- Oversight Committee: Licensing and intellectual property changes.
-- Oversight Committee: Material changes to the Governance document.
+- Maintainers: Adding additional maintainers.
+- Chairs: Enforcing a Code of Conduct violation by a community member.
+- Chairs: Licensing and intellectual property changes.
+- Chairs: Material changes to the Governance document.
   - Note: editorial changes to governance may be made by lazy consensus, unless challenged.
     These are changes which fix spelling or grammar, update work affiliation or similar, update style or reflect an outside and obvious reality.
     They do not change the intention or meaning of anything in this document.
-
-### Unanimity Decisions
-
-If a vote is called, the following decisison require Unanimity <https://en.wikipedia.org/wiki/Unanimity>.
-
-- Repository Maintainers: Electing new Maintainers of the same repository.
-- Oversight Committee: Electing new Committee members.
-- Oversight Committee: Removing a Repository Maintainer or Committee member for any reason other than inactivity.
-
-## Proposal Process
-
-- Changes to artifacts produced by the GitOps Working Group (documentation, samples, etc.) should go through the pull request process, where the idea and any implementation details can be publicly discussed with Maintainers, other contributors, and end users.
-  Pull requests should only be merged after receiving GitHub approval from at least one Maintainer who is not the pull request author.
-- Non-artifact changes should be proposed as GitHub issues.
-  If unclear which git repository to create the issue in, default to the community repository <https://github.com/gitops-working-group/community>.
-- All proposals should be discussed publicly in an appropriate GitHub issue or pull request.
-- If a Maintainer of an affected git repository feels feedback from specific people is warranted they will @mention those users or teams to request feedback.
-- Proposals may also be added to the GitOps Working Group meetings agenda, as a good avenue for making progress on a decision <https://lists.cncf.io/g/cncf-gitops-working-group/calendar>.
-
-## Licenses and Copyright
-
-- Apache 2.0 is required for all git repositories.
-- Developer Certificate of Origin (DCO) commit signoff is required for all new code contributions.
-
-Links to relevant CNCF documentation:
-
-- <https://github.com/cncf/foundation/blob/master/charter.md#11-ip-policy>
-- <https://github.com/cncf/foundation/blob/master/allowed-third-party-license-policy.md#approved-licenses-for-allowlist>
-- <https://github.com/cncf/foundation/blob/master/copyright-notices.md#copyright-notices>
