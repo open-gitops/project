@@ -19,7 +19,7 @@ Visit [opengitops.dev](https://opengitops.dev) for a friendly version of informa
 | <img src="https://openmoji.org/data/color/svg/1F310.svg" alt="Globe with Meridians emoji Unicode 1F310. OpenMoji CC BY-SA 4.0" width="100"> | [website](https://github.com/open-gitops/website) | Source code for [opengitops.dev](https://opengitops.dev) |
 | <img src="https://openmoji.org/data/color/svg/1F9D1-200D-2695-FE0F.svg" alt="Health Worker Unicode 1F9D1-200D-2695-FE0F. OpenMoji CC BY-SA 4.0" width="100"> | [.github](https://github.com/open-gitops/.github) | Organization-wide [default community health files](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file) for all OpenGitOps project repos |
 
-## Contributing <img src="https://openmoji.org/data/color/svg/1F91D.svg" alt="Handshake emoji Unicode 1F91D. OpenMoji CC BY-SA 4.0" width="20" valign="middle">
+## Contributing
 
 Be sure to review the OpenGitOps [contributing guidelines](https://github.com/open-gitops/.github/blob/main/CONTRIBUTING.md) and [code of conduct](https://github.com/open-gitops/.github/blob/main/CODE_OF_CONDUCT.md).
 
@@ -27,12 +27,12 @@ OpenGitOps is currently guided by the CNCF [GitOps Working Group](https://github
 It is an open public working group welcoming anyone who would like to join and help.
 See [How to Get Involved](https://github.com/gitops-working-group/gitops-working-group/blob/main/README.md#how-to-get-involved).
 
-## Security <img src="https://openmoji.org/data/color/svg/1F510.svg" alt="Lock With Key Unicode 1F510. OpenMoji CC BY-SA 4.0" width="20" valign="middle">
+## Security
 
 Reporting a security vulnerability?
 Check out the project's [security policy](https://github.com/open-gitops/.github/blob/main/SECURITY.md).
 
-## Support <img src="https://openmoji.org/data/color/svg/1F919.svg" alt="Call Me Hand Unicode 1F919. OpenMoji CC BY-SA 4.0" width="20" valign="middle">
+## Support
 
 Looking for help?
 Check out the project’s [instructions for getting support](https://github.com/open-gitops/.github/blob/main/SUPPORT.md).
