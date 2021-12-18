@@ -78,7 +78,7 @@ The GitHub `@gitops-working-group/chairs` team will be kept up to date with curr
 
 [Chairs](#chairs) will be elected for one year terms and may run for reelection.
 
-The election process takes place on the CNCF SIG App Delivery [mailing list](cncf-sig-app-delivery@lists.cncf.io ).
+The election process takes place on the CNCF SIG App Delivery mailing list <cncf-sig-app-delivery@lists.cncf.io>.
 
 Before each election, there will be a call for nominations on the mailing list.
 Nominations should be sent to the mailing list, and include a brief bio and personal statement describing the candidate's qualifications to serve in this capacity.
