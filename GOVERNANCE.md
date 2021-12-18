@@ -41,7 +41,7 @@ Current Maintainers are listed in a [MAINTAINERS](./MAINTAINERS) file at the roo
 Responsibilities:
 
 - Enable and promote GitOps Working Group community values
-- Engage with the wider GitOps community through appropriate [communication channels](./README.md#how-to-get-involved)
+- Engage with the wider GitOps community through appropriate [communication channels](https://github.com/cncf/tag-app-delivery/blob/main/gitops-wg/README.md#community)
 - Maintain involvement and open collaboration with working group members and committees
 - Review and approve pull requests
 - Ask for help when unsure and step down considerately when appropriate
