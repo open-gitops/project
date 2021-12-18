@@ -52,7 +52,7 @@ The GitHub `@gitops-working-group/maintainers` team will be kept up to date with
 
 The GitOps WG and OpenGitOps project will be co-chaired by 3 [Maintainers](#maintainers).
 A maximum of one person from any one entity may hold a chair role at any given moment in order to avoid undue influence, and maintain balanced representation.
-Current chairs are listed in a [CHAIRS.md](./CHAIRS.md) file at the root of this git repository.
+Current chairs are listed in a [CHAIRS.md](https://github.com/cncf/tag-app-delivery/blob/main/gitops-wg/CHAIRS.md) file in the GitOps Working Group directory of the CNCF App Delivery TAG git repository.
 
 Responsibilities:
 
