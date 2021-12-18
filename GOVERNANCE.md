@@ -85,7 +85,7 @@ Nominations should be sent to the mailing list, and include a brief bio and pers
 Self-nominations are welcome. Only existing maintainers are eligible for nomination.
 
 The GitOps WG employs "organization voting" to ensure no single organization can dominate the election process or project.
-Up to two individuals from organizations who are both active members of the CNCF and listed in the [interested parties](interested-parties.md) may vote.
+Up to two individuals from organizations who are both active members of the CNCF and listed in the [interested parties](https://github.com/cncf/tag-app-delivery/blob/main/gitops-wg/interested-parties.md) may vote.
 Interested parties must be added at least one week before any election to have a vote.
 Chairs will be elected using Ranked Choice Voting.
 
