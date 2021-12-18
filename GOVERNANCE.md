@@ -26,9 +26,9 @@ Committees follow processes to allow for progress so long as they maintain inclu
 Current WG committees:
 
 - Principles Committee
-  - Responsible for drafting the revised GitOps Principles (see [Timeline](#timeline))
+  - Responsible for drafting the revised [GitOps Principles](https://github.com/open-gitops/documents)
 - Events Committee
-  - Responsible for organizing events such as GitOpsCon, and supporting other events in the wider GitOps community (see [Timeline](#timeline))
+  - Responsible for organizing events such as GitOpsCon, and supporting other events in the wider GitOps community (see [OpenGitOps events](https://opengitops.dev/events))
 - Communications Committee
   - Reponsible for coordinating public communications on behalf of the working group
 
