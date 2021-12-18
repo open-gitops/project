@@ -108,7 +108,7 @@ Representatives elected though this process will serve the remaining part of the
 ### Decision Guidelines
 
 - The GitOps Working Group believes that the best decisions are reached through Consensus <https://en.wikipedia.org/wiki/Consensus_decision-making>.
-  This applies to all working communication by WG members (see [How To Get Involved](README.md#how-to-get-involved)).
+  This applies to all working communication by WG members (see [GitOps WG community info](https://github.com/cncf/tag-app-delivery/blob/main/gitops-wg/README.md#community)).
 - Most decisions begin by seeking Lazy Consensus <https://communitymgt.wikia.com/wiki/Lazy_consensus>.
 - If an objection is raised through the Lazy Consensus process, the group works together to seek an agreeable solution.
 - If Consensus can not be reached, but a decision must be made, the next step is try to attempt to agree that a vote should be called.
