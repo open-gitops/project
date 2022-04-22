@@ -4,4 +4,4 @@ As GitOps adoption grows, we'd like to hear from organizations that are successf
 
 Currently, the following organizations are officially adopting GitOps (in alphabetical order). 
 
-1. [Example Organization](https://example.com)
+1. [Example Organization](https://example.com) – `Example` has adopted GitOps to manage our X and Y products and their required infrastructure. We use A and B tools/techniques, and participate in the GitOps WG meetings. See this a (blog post/talk) about the details of our journey and current setup: <https://example.com/blog/how-we-do-gitops>
