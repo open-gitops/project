@@ -21,7 +21,7 @@ This will establish a foundation for interoperability between tools, conformance
 
 Be sure to review the OpenGitOps [contributing guidelines](https://github.com/open-gitops/.github/blob/main/CONTRIBUTING.md) and [code of conduct](https://github.com/open-gitops/.github/blob/main/CODE_OF_CONDUCT.md).
 
-OpenGitOps is currently guided by the CNCF [GitOps Working Group]([https://github.com/gitops-working-group/gitops-working-group](https://github.com/cncf/tag-app-delivery/tree/main/gitops-wg)), a WG under the CNCF [App Delivery TAG](https://github.com/cncf/tag-app-delivery).
+OpenGitOps is currently guided by the CNCF [GitOps Working Group](https://github.com/cncf/tag-app-delivery/tree/main/gitops-wg), a WG under the CNCF [App Delivery TAG](https://github.com/cncf/tag-app-delivery).
 It is an open public working group welcoming anyone who would like to join and help.
 See [How to Get Involved](https://github.com/gitops-working-group/gitops-working-group/blob/main/README.md#how-to-get-involved).
 
