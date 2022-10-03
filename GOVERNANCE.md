@@ -93,7 +93,7 @@ The election process takes place on the CNCF SIG App Delivery mailing list <cncf
 
 Before each election, there will be a call for nominations on the mailing list.
 Nominations should be sent to the mailing list, and include a brief bio and personal statement describing the candidate's qualifications to serve in this capacity.
-Self-nominations are welcome. Only existing maintainers are eligible for nomination.
+Self-nominations are welcome. Only existing [Maintainers](#maintainers) are eligible for nomination.
 
 The GitOps WG employs "organization voting" to ensure no single organization can dominate the election process or project.
 Up to two individuals from organizations who are both active members of the CNCF and listed in the [interested parties](https://github.com/cncf/tag-app-delivery/blob/main/gitops-wg/interested-parties.md) may vote.
@@ -147,11 +147,11 @@ After they do so, they must be moved from the inactive section of the maintainer
 
 ### Simple Majority Decisions
 
-If a vote is called, the default is a Simple Majority Vote <https://en.wikipedia.org/wiki/Majority> - more than half of all active [Maintainers](#maintainers).
+If a vote is called, the default is a Simple Majority Vote - more than half of all active [Maintainers](#maintainers).
 
 ### Supermajority Decisions
 
-If a vote is called, the following decisions require a Supermajority Vote <https://en.wikipedia.org/wiki/Supermajority> - two-thirds or more of all active [Maintainers](#maintainers).
+If a vote is called, the following decisions require a Supermajority Vote - two-thirds or more of all active [Maintainers](#maintainers).
 
 - Adding additional Maintainers.
 - Moving a Maintainer to [Inactive](#moving-a-maintainer-to-inactive)
