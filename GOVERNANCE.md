@@ -61,6 +61,7 @@ Project [Decision Making](#decision-making) must be able to procceed, while also
 In order to acheive this, inactive maintainer voting slots are not counted when tallying [Simple Majority](#simple-majority-decisions) or [Supermajority](#supermajority-decisions) decisions.
 
 Inactive Maintainers will be listed in an "inactive" section of the a [MAINTAINERS](./MAINTAINERS) file at the root of this git repository.
+See [Moving a Maintainer to Inactive](#moving-a-maintainer-to-inactive) for process.
 
 ### Chairs
 
@@ -113,6 +114,16 @@ In these cases, positions will be open both to previous holders and to any new n
 The standard nomination and [election](#elections) process will be carried out.
 Representatives elected though this process will serve the remaining part of the current term.
 
+### Moving a Maintainer to Inactive
+
+A Maintainer may be moved to [Inactive](#inactive-maintainers) status if they will be or have been away from their responsibilities for over 2 months,
+or if a [Decision](#decision-making) under vote is blocked by not receiving required responses due to inactivity by that Maintainer.
+
+Activity and inactivity is defined by one or more of the responsibilities listed for [Maintainers](#maintainers).
+
+Inactive maintainers return to their responsibilities when they are able, without the need for additional processes.
+After they do so, they must be moved from the inactive section of the maintainers file back to the active maintainers list in order for their votes to count in [decision making](#decision-making).
+
 ## Decision Making
 
 ### Decision Guidelines
@@ -143,6 +154,7 @@ If a vote is called, the default is a Simple Majority Vote <https://en.wikipedia
 If a vote is called, the following decisions require a Supermajority Vote <https://en.wikipedia.org/wiki/Supermajority> - two-thirds or more of all active [Maintainers](#maintainers).
 
 - Adding additional Maintainers.
+- Moving a Maintainer to [Inactive](#moving-a-maintainer-to-inactive)
 - Enforcing a Code of Conduct violation by a community member.
 - Licensing and intellectual property changes.
 - Material changes to the Governance document.
