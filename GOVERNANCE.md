@@ -36,6 +36,7 @@ Current WG committees:
 
 Working Group and OpenGitOps project Maintainers are [Members](#all-members) who have shown significant and sustained contributions in the GitOps WG.
 The initial set of Maintainers were drawn from the organizations that proposed the creation of the working group.
+Maintainers must remain active in the project.
 Current Maintainers are listed in a [MAINTAINERS](./MAINTAINERS) file at the root of this git repository.
 
 Responsibilities:
@@ -45,11 +46,21 @@ Responsibilities:
 - Engage with the wider GitOps community through appropriate [communication channels](https://github.com/cncf/tag-app-delivery/blob/main/gitops-wg/README.md#community)
 - Maintain involvement and open collaboration with working group members and committees
 - Review and approve pull requests
-- Ask for help when unsure and step down considerately when appropriate
+- Participate in voting when needed
+- Ask for help when unsure
+- Notify fellow Maintainers before periods of inactivity when possible
+- Step down considerately when appropriate
 
 Ultimately the Maintainers - after consulting with the community - drive the direction, values and governance of the overall project.
 
 The GitHub `@gitops-working-group/maintainers` team will be kept up to date with current Maintainers.
+
+### Inactive Maintainers
+
+Project [Decision Making](#decision-making) must be able to procceed, while also respecting reasonable periods of inactivity by individual [Maintainers](#maintainers).
+In order to acheive this, inactive maintainer voting slots are not counted when tallying [Simple Majority](#simple-majority-decisions) or [Supermajority](#supermajority-decisions) decisions.
+
+Inactive Maintainers will be listed in an "inactive" section of the a [MAINTAINERS](./MAINTAINERS) file at the root of this git repository.
 
 ### Chairs
 
@@ -125,11 +136,11 @@ Representatives elected though this process will serve the remaining part of the
 
 ### Simple Majority Decisions
 
-If a vote is called, the default is a Simple Majority Vote <https://en.wikipedia.org/wiki/Majority> by [Maintainers](#maintainers).
+If a vote is called, the default is a Simple Majority Vote <https://en.wikipedia.org/wiki/Majority> - more than half of all active [Maintainers](#maintainers).
 
 ### Supermajority Decisions
 
-If a vote is called, the following decisions require a Supermajority Vote <https://en.wikipedia.org/wiki/Supermajority> by [Maintainers](#maintainers).
+If a vote is called, the following decisions require a Supermajority Vote <https://en.wikipedia.org/wiki/Supermajority> - two-thirds or more of all active [Maintainers](#maintainers).
 
 - Adding additional Maintainers.
 - Enforcing a Code of Conduct violation by a community member.
