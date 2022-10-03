@@ -40,13 +40,16 @@ Current Maintainers are listed in a [MAINTAINERS](./MAINTAINERS) file at the roo
 
 Responsibilities:
 
+- Collectively care for the OpenGitOps project, as outlined in the [GitOps WG charter](https://github.com/cncf/tag-app-delivery/blob/main/gitops-wg/charter.md) Mission and Goals
 - Enable and promote GitOps Working Group community values
 - Engage with the wider GitOps community through appropriate [communication channels](https://github.com/cncf/tag-app-delivery/blob/main/gitops-wg/README.md#community)
 - Maintain involvement and open collaboration with working group members and committees
 - Review and approve pull requests
 - Ask for help when unsure and step down considerately when appropriate
 
-The GitHub `@gitops-working-group/maintainers` team will be kept up to date with current maintainers.
+Ultimately the Maintainers - after consulting with the community - drive the direction, values and governance of the overall project.
+
+The GitHub `@gitops-working-group/maintainers` team will be kept up to date with current Maintainers.
 
 ### Chairs
 
@@ -56,7 +59,6 @@ Current chairs are listed in a [CHAIRS.md](https://github.com/cncf/tag-app-deliv
 
 Responsibilities:
 
-- Primary role of Chairs is governance of the Working Group, who collectively care for the OpenGitOps project
 - Ensure the promotion of continued open involvement for the working group
 - Ensure that meetings and other activities are conducted and progress continues to be made against the project agenda, while also engaging other group members in leadership roles
 - Ensure discussion is extended asynchronously to be inclusive of members who cannot attend a specific meeting time
@@ -68,9 +70,6 @@ Responsibilities:
   Chairs are, however not responsible for performing all of the work - this is shared across the working group members and expected from those who have volunteered onto various workstreams.
 - When necessary, handle human and technical coordination across different working group workstreams
 - Handle Code of Conduct violations
-- Resolve escalated decisions when Maintainers can not reach consensus
-
-Ultimately the chairs - after consulting with the collective of Maintainers and their community - drive the direction, values and governance of the overall project.
 
 The GitHub `@gitops-working-group/chairs` team will be kept up to date with current chairs.
 
@@ -111,29 +110,31 @@ Representatives elected though this process will serve the remaining part of the
   This applies to all working communication by WG members (see [GitOps WG community info](https://github.com/cncf/tag-app-delivery/blob/main/gitops-wg/README.md#community)).
 - Most decisions begin by seeking Lazy Consensus <https://communitymgt.wikia.com/wiki/Lazy_consensus>.
 - If an objection is raised through the Lazy Consensus process, the group works together to seek an agreeable solution.
-- If Consensus can not be reached, but a decision must be made, the next step is try to attempt to agree that a vote should be called.
-  This is important, as it gives dissenting views a chance to request more information or raise further points.
-- If Maintainers can't agree on calling a vote, they may escalate to the Chairs.
+- If Consensus can not be reached, but a decision must be made, a vote among [Maintainers](#maintainers) will be called.
   This should only be done at this stage if:
-  1. An important deadline is threatened by continuing the Consensus process; or
-  2. A Decider feels there is unreasonable blocking of both reaching Consensus and agreeing to a vote.
+  1. A Maintainer feels an important deadline is threatened by continuing the Consensus process; or
+  2. A Maintainer feels there is unreasonable blocking of reaching Consensus.
       This should be rare, due to the social cost of discontinuing the Consensus process for this reason.
       Most decisions should wait for the above process to take its course.
-- If maintainers agree to a vote, the default is a Simple Majority.
-- However, there are cases that require stronger voting – Supermajority or Unanimity – specified below:
+- Calling a Maintainer vote and voting itself takes place via a GitHub issue.
+  For additional transparency these are also announced both on the the CNCF SIG App Delivery mailing list <cncf-sig-app-delivery@lists.cncf.io>,
+  as well as added to the agenda to be raised at the next weekly project meeting.
+  These steps for transparency are important, as they give dissenting views a chance to request more information or raise further points through the voting process even if they missed the initial discussion.
+- By default a vote requires a [Simple Majority](#simple-majority-decisions).
+- However, there are cases that require stronger voting – [Supermajority](#supermajority-decisions) – specified below.
 
 ### Simple Majority Decisions
 
-If a vote is called, the default is a Simple Majority Vote <https://en.wikipedia.org/wiki/Majority>.
+If a vote is called, the default is a Simple Majority Vote <https://en.wikipedia.org/wiki/Majority> by [Maintainers](#maintainers).
 
 ### Supermajority Decisions
 
-If a vote is called, the following decisions require a Supermajority Vote <https://en.wikipedia.org/wiki/Supermajority>.
+If a vote is called, the following decisions require a Supermajority Vote <https://en.wikipedia.org/wiki/Supermajority> by [Maintainers](#maintainers).
 
-- Maintainers: Adding additional maintainers.
-- Chairs: Enforcing a Code of Conduct violation by a community member.
-- Chairs: Licensing and intellectual property changes.
-- Chairs: Material changes to the Governance document.
+- Adding additional Maintainers.
+- Enforcing a Code of Conduct violation by a community member.
+- Licensing and intellectual property changes.
+- Material changes to the Governance document.
   - Note: editorial changes to governance may be made by lazy consensus, unless challenged.
     These are changes which fix spelling or grammar, update work affiliation or similar, update style or reflect an outside and obvious reality.
     They do not change the intention or meaning of anything in this document.
