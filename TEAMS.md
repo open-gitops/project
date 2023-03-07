@@ -16,6 +16,7 @@ Please [reach out in any of the available ways](https://github.com/open-gitops/.
 
 ## List of teams
 
+<!-- markdownlint-disable MD033 -->
 | Team | Status | Info | Members |
 | -- | -- | -- | -- |
 | content/gitops-environmental-sustainability team | active | [current discussion](https://github.com/open-gitops/project/issues/129) | <ul><li>[@chris-short](https://github.com/chris-short)</li><li>[@JaimeMagiera](https://github.com/JaimeMagiera)</li><li>[@nikimanoledaki](https://github.com/nikimanoledaki)</li><li>[@niklasmtj](https://github.com/niklasmtj)</li><li>[@nishadmehendale](https://github.com/nishadmehendale)</li><li>[@scottrigby](https://github.com/scottrigby)</li><li>[@williamcaban](https://github.com/williamcaban)</li></ul> |
