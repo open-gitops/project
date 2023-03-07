@@ -6,11 +6,11 @@ Community interest in GitOps, the GitOps Working Group, and OpenGitOps project h
 
 ## Process
 
-To join an existing team - [listed below](#list-of-teams) - it's a good idea to start by joining the twice monthly GitOps WG meeting and introduce yourself. You may skip this if you are unable to join those meetings. In either case, for transparency, open a PR adding yourself to the list below in [this file](https://github.com/open-gitops/project/blob/main/TEAMS.md), and in the PR description explain which team(s) you want to volunteer to join and why. All legitimate volunteers who are able to continue contributing are welcome to join any team. 🦄
+To join an existing team - [listed below](#list-of-teams) - it's a good idea to start by joining the twice monthly GitOps WG meeting and introduce yourself. You may skip this if you are unable to join those meetings. In either case, for transparency, open a PR adding yourself to the list below in [this file](https://github.com/open-gitops/project/blob/main/TEAMS.md), and in the PR description explain which team(s) you want to volunteer to join and why. All legitimate volunteers who are able to continue contributing are welcome to join any team. Once the PR is approved, the user should be added to the appropriate GitHub team in the [open-gitops](https://github.com/open-gitops) GitHub org as a last step before the PR is merged. New team members should be added to the the next [GitOps WG twice-monthly meeting agenda](https://docs.google.com/document/d/1hxifmCdOV5_FbKloDJRWZQHq0ge-trXJKF-BgV4wHVk/edit) so they can be welcomed by the group. 🦄
 
 To propose a new team, open a discussion topic in the [github.com/open-gitops/project](https://github.com/open-gitops/project) repo, make a persuasive case, and invite feedback from others. If it's deemed within the scope of the WG, and there are others interested in contrubuting, from there a PR can be opened to create the team and add members in this file, below.
 
-The status of proposed groups can be `proposed`, `active`, `paused`, or `inactive`. Be sure to keep the list below updated with a link to the currrent discussion, and active teams should have a link to meeting info for transparency and so anyone can participate.
+The status of proposed groups can be `proposed`, `active`, `paused`, or `inactive`. Be sure to keep the list below updated with a link to the currrent discussion, and active teams should have a link to meeting info for transparency and so anyone will be able to join if they wish.
 
 Please [reach out in any of the available ways](https://github.com/open-gitops/.github/blob/main/CONTRIBUTING.md) with any questions. We welcome contributions from [everyone](https://github.com/open-gitops/project/blob/main/GOVERNANCE.md#all-members), and look forward to collaborating with you! 🙂💖🤝
 
@@ -28,4 +28,3 @@ Please [reach out in any of the available ways](https://github.com/open-gitops/.
 | translations | active | ADD | ADD |
 | translations/LANGUAGE | ADD | ADD | ADD |
 | (historic) Principles Committee | inactive | [past meeting notes](https://docs.google.com/document/d/1hxifmCdOV5_FbKloDJRWZQHq0ge-trXJKF-BgV4wHVk/edit#heading=h.kr2ebmvnmiq7) |  n/a |
-
