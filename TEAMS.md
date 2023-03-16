@@ -2,7 +2,7 @@
 
 ## What and why
 
-Community interest in GitOps, the GitOps Working Group, and OpenGitOps project has continued to increase over the past several years. The WG is now large enough – and there are enough work products the group is committed to – that the project work can not all be organized within the all-group twice-monthly meeting. Often these areas of focus will be worked on by only a subset of the WG. Subgroups – or teams – have been a very functional solution to helping this work happen in a focused way while keeping the group on track. Every twice-monthly all-group meeting starts with a report by each of the teams, including new members. This could include you!
+Community interest in GitOps, the GitOps Working Group (WG), and OpenGitOps project has continued to increase over the past several years. The WG is now large enough – and there are enough work products the group is committed to – that the project work can not all be organized within the all-group twice-monthly meeting. Often these areas of focus will be worked on by only a subset of the WG. Subgroups – or teams – have been a very functional solution to helping this work happen in a focused way while keeping the group on track. Every twice-monthly all-group meeting starts with a report by each of the teams, including new members. This could include you!
 
 ## Process
 
