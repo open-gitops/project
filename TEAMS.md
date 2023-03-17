@@ -26,6 +26,4 @@ Please [reach out in any of the available ways](https://github.com/open-gitops/.
 | marketing/media | active | [current discussion](https://github.com/open-gitops/project/discussions/22) | <ul><li>[@christianh814](https://github.com/christianh814)</li><li>[@chris-short](https://github.com/chris-short)</li><li>[@scottrigby](https://github.com/scottrigby)</li><li>[@soschwei](https://github.com/soschwei)</li><li>[@staceypotter](https://github.com/staceypotter)</li><li>[@todaywasawesome](https://github.com/todaywasawesome)</li></ul> |
 | marketing/events | active | ADD | <ul><li>[@christianh814](https://github.com/christianh814)</li><li>[@niklasmtj](https://github.com/niklasmtj)</li><li>[@roberthstrand](https://github.com/roberthstrand)</li><li>[@scottrigby](https://github.com/scottrigby)</li><li>[@soschwei](https://github.com/soschwei)</li><li>[@staceypotter](https://github.com/staceypotter)</li></ul> |
 | marketing/media-fact-checking | proposed | ADD | <ul><li>[@makkes](https://github.com/makkes)</li><li>[@scottrigby](https://github.com/scottrigby)</li></ul> |
-| translations | active | ADD | ADD |
-| translations/LANGUAGE | ADD | ADD | ADD |
 | (historic) Principles Committee | inactive | [past meeting notes](https://docs.google.com/document/d/1hxifmCdOV5_FbKloDJRWZQHq0ge-trXJKF-BgV4wHVk/edit#heading=h.kr2ebmvnmiq7) |  n/a |
