@@ -16,14 +16,31 @@ Please [reach out in any of the available ways](https://github.com/open-gitops/.
 
 ## List of teams
 
+### Active teams
+
 <!-- markdownlint-disable MD033 -->
 | Team | Status | Info | Members |
 | -- | -- | -- | -- |
 | content/gitops-environmental-sustainability team | active | [current discussion](https://github.com/open-gitops/project/issues/129) | <ul><li>[@chris-short](https://github.com/chris-short)</li><li>[@JaimeMagiera](https://github.com/JaimeMagiera)</li><li>[@nikimanoledaki](https://github.com/nikimanoledaki)</li><li>[@niklasmtj](https://github.com/niklasmtj)</li><li>[@nishadmehendale](https://github.com/nishadmehendale)</li><li>[@scottrigby](https://github.com/scottrigby)</li><li>[@williamcaban](https://github.com/williamcaban)</li></ul> |
-| content/meme | proposed | [current discussion](https://github.com/open-gitops/project/discussions/102) | <ul><li>[scottrigby](https://github.com/scottrigby)</li></ul> |
-| content/ml | paused | [current discussion](https://github.com/open-gitops/project/issues/127) / [meeting info](https://docs.google.com/document/d/1HHkqMK_GW6dYHPu1oDjRXesPFO0u1KtyHX70FQ95_7A/edit#heading=h.m1bztpjqh35d) | <ul><li>[@niklasmtj](https://github.com/niklasmtj)</li><li>[@samueltauil](https://github.com/samueltauil)</li><li>[@williamcaban](https://github.com/williamcaban)</li></ul> |
-| content/security | proposed | [current discussion](https://github.com/open-gitops/project/issues/128) | <ul><li>[roberthstrand](https://github.com/roberthstrand)</li></ul> |
 | marketing/media | active | [current discussion](https://github.com/open-gitops/project/discussions/22) | <ul><li>[@christianh814](https://github.com/christianh814)</li><li>[@chris-short](https://github.com/chris-short)</li><li>[@scottrigby](https://github.com/scottrigby)</li><li>[@soschwei](https://github.com/soschwei)</li><li>[@staceypotter](https://github.com/staceypotter)</li><li>[@todaywasawesome](https://github.com/todaywasawesome)</li></ul> |
 | marketing/events | active | [purpose](https://github.com/open-gitops/project/blob/main/GOVERNANCE.md#committees) (also see [#151](https://github.com/open-gitops/project/issues/151)) | <ul><li>[@christianh814](https://github.com/christianh814)</li><li>[@niklasmtj](https://github.com/niklasmtj)</li><li>[@roberthstrand](https://github.com/roberthstrand)</li><li>[@scottrigby](https://github.com/scottrigby)</li><li>[@soschwei](https://github.com/soschwei)</li><li>[@staceypotter](https://github.com/staceypotter)</li></ul> |
+
+## Proposed teams
+
+|||||
+|--|--|--|--|
+| content/meme | proposed | [current discussion](https://github.com/open-gitops/project/discussions/102) | <ul><li>[scottrigby](https://github.com/scottrigby)</li></ul> |
+| content/security | proposed | [current discussion](https://github.com/open-gitops/project/issues/128) | <ul><li>[roberthstrand](https://github.com/roberthstrand)</li></ul> |
 | marketing/media-fact-checking | proposed | [current discussion](https://github.com/open-gitops/project/discussions/99) | <ul><li>[@makkes](https://github.com/makkes)</li><li>[@scottrigby](https://github.com/scottrigby)</li></ul> |
-| (historic) Principles Committee | inactive | [past meeting notes](https://docs.google.com/document/d/1hxifmCdOV5_FbKloDJRWZQHq0ge-trXJKF-BgV4wHVk/edit#heading=h.kr2ebmvnmiq7) |  n/a |
+
+## Paused teams
+
+|||||
+|--|--|--|--|
+| content/ml | paused | [current discussion](https://github.com/open-gitops/project/issues/127) / [meeting info](https://docs.google.com/document/d/1HHkqMK_GW6dYHPu1oDjRXesPFO0u1KtyHX70FQ95_7A/edit#heading=h.m1bztpjqh35d) | <ul><li>[@niklasmtj](https://github.com/niklasmtj)</li><li>[@samueltauil](https://github.com/samueltauil)</li><li>[@williamcaban](https://github.com/williamcaban)</li></ul> |
+
+### Inactive teams
+
+|||||
+|--|--|--|--|
+| (historic) Principles Committee | inactive | [past meeting notes](https://docs.google.com/document/d/1hxifmCdOV5_FbKloDJRWZQHq0ge-trXJKF-BgV4wHVk/edit#heading=h.kr2ebmvnmiq7) |  see Attribution section of [v1.0.0 release notes](https://github.com/open-gitops/documents/releases/tag/v1.0.0) |
