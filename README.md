@@ -23,7 +23,7 @@ Be sure to review the OpenGitOps [contributing guidelines](https://github.com/op
 
 OpenGitOps is currently guided by the CNCF [GitOps Working Group](https://github.com/cncf/tag-app-delivery/tree/main/gitops-wg), a WG under the CNCF [App Delivery TAG](https://github.com/cncf/tag-app-delivery).
 It is an open public working group welcoming anyone who would like to join and help.
-See [How to Get Involved](https://github.com/gitops-working-group/gitops-working-group/blob/main/README.md#how-to-get-involved).
+See [How to Get Involved](https://github.com/cncf/tag-app-delivery/tree/main/gitops-wg#community).
 
 ## Security
 
