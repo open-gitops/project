@@ -12,7 +12,6 @@ Akuity | Remington Breeze | rbreeze
 Akuity | Yuan Tang | terrytangyuan
 Alibaba | Lei Zhang
 Alibaba | Hongchao Deng
-Amesto Fortytwo | Roberth Strand | roberthstrand
 AppCtl | Yuce Sungur
 Appsflyer | Eliran Bivas | bivas
 Argo Project (individual) | Jann Fischer
@@ -45,6 +44,7 @@ Deutsche Bahn | Schlomo Schapiro
 Docker | Justin Cormack
 Dynatrace | Andreas Grimmer
 Dynatrace | Thomas Schuetz
+Dynatrace | Stacey Potter | staceypotter
 Dynatrace & CDF | Oleg Nenashev | oleg-nenashev
 effx | Mya Pitzeruse
 Fairwinds | Robert Brennan
@@ -97,6 +97,7 @@ Red Hat | Andrew Block
 Salesforce | Prakash Rudraraju
 Schwarz IT | Engin Diri
 Snyk | Omer Kahani
+Sopra Steria | Roberth Strand | roberthstrand
 Stackm8 / Weaveworks | David A. Symons
 Stytch | Danny Thomson
 Syncier | Torsten Walter
@@ -114,7 +115,6 @@ Weaveworks | Brice Fernandes
 Weaveworks | Scott Rigby
 Weaveworks | Lucas Käldström
 Weaveworks | Sebastian Bernheim | sbernheim
-Weaveworks | Stacey Potter | staceypotter
 Workday | Adrian Smith
 &nbsp; | Lloyd Chang
 &nbsp; | Tim Sina
