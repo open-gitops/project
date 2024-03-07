@@ -2,6 +2,8 @@
 <!-- markdownlint-disable MD033 -->
 <p><img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/opengitops/icon/color/opengitops-icon-color.svg" alt="OpenGitOps logo icon color" width="150"></p>
 
+## Mission
+
 Welcome!
 OpenGitOps is a [CNCF Sandbox project](https://www.cncf.io/sandbox-projects/) to define a vendor-neutral, principle-led meaning of GitOps.
 This will establish a foundation for interoperability between tools, conformance, and certification through lasting programs, documents, and code.
@@ -19,11 +21,13 @@ This will establish a foundation for interoperability between tools, conformance
 
 ## Contributing
 
+OpenGitOps is an open public project welcoming anyone who would like to get involved.
 Be sure to review the OpenGitOps [contributing guidelines](https://github.com/open-gitops/.github/blob/main/CONTRIBUTING.md) and [code of conduct](https://github.com/open-gitops/.github/blob/main/CODE_OF_CONDUCT.md).
 
-OpenGitOps is currently guided by the CNCF [GitOps Working Group](https://github.com/cncf/tag-app-delivery/tree/main/gitops-wg), a WG under the CNCF [App Delivery TAG](https://github.com/cncf/tag-app-delivery).
-It is an open public working group welcoming anyone who would like to join and help.
-See [How to Get Involved](https://github.com/cncf/tag-app-delivery/tree/main/gitops-wg#community).
+## History
+
+OpenGitOps was initially created and guided by the CNCF [GitOps Working Group](https://github.com/cncf/tag-app-delivery/tree/main/gitops-wg), which was part of the CNCF [App Delivery TAG](https://github.com/cncf/tag-app-delivery).
+In March 2024 The GitOps WG merged into the OpenGitOps project to simplify project governance and the path for new contributors.
 
 ## Security
 
