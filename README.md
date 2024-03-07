@@ -24,11 +24,6 @@ This will establish a foundation for interoperability between tools, conformance
 OpenGitOps is an open public project welcoming anyone who would like to get involved.
 Be sure to review the OpenGitOps [contributing guidelines](https://github.com/open-gitops/.github/blob/main/CONTRIBUTING.md) and [code of conduct](https://github.com/open-gitops/.github/blob/main/CODE_OF_CONDUCT.md).
 
-## History
-
-OpenGitOps was initially created and guided by the CNCF [GitOps Working Group](https://github.com/cncf/tag-app-delivery/tree/main/gitops-wg), which was part of the CNCF [App Delivery TAG](https://github.com/cncf/tag-app-delivery).
-In March 2024 The GitOps WG merged into the OpenGitOps project to simplify project governance and the path for new contributors.
-
 ## Security
 
 Reporting a security vulnerability?
