@@ -34,6 +34,7 @@ Contino | Jaroslav Pantsjoha
 Contino | Deepak Vensi
 Contino | Josh Armitage
 Contino | Sean Rigby
+Crayon | Marius Antonsen | antnsn
 D2iQ | Ken Sipe
 D2iQ | Max Jonas Werner | makkes
 DataGalaxy | Matthieu DUFOURNEAUD
@@ -75,6 +76,7 @@ Microsoft | Chris Sanders
 Microsoft | Jürgen Etzlstorfer
 Morgan Stanley | Yash Gandhi
 Morgan Stanley | Dave Reeve
+MSD Animal Health Intelligence | Moran Weissman
 Octo Technology | Nabil Belakbir
 Orange Business Services | Philippe Ensarguet
 PCCW Solutions | Mohammed Saleem
@@ -112,6 +114,7 @@ Weaveworks | Brice Fernandes
 Weaveworks | Scott Rigby
 Weaveworks | Lucas Käldström
 Weaveworks | Sebastian Bernheim | sbernheim
+Weaveworks | Stacey Potter | staceypotter
 Workday | Adrian Smith
 &nbsp; | Lloyd Chang
 &nbsp; | Tim Sina
