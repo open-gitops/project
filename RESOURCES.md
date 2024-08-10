@@ -4,28 +4,28 @@ The reference material entries listed in this document are contributions coverin
 
 ## Categories of GitOps Materials
 
-1. **Books**
+1. [Books](#books)
    - Comprehensive guides or textbooks covering GitOps principles, practices, and implementations.
 
-2. **Research Papers**
+2. [Research Papers](#research-papers)
    - Academic papers exploring various aspects of GitOps, including methodologies, comparisons with other DevOps practices, and empirical research.
 
-3. **Articles**
+3. [Articles](#articles)
    - Online or print articles discussing specific aspects of GitOps, such as tutorials, best practices, tool comparisons, and industry trends.
 
-4. **Documentation**
+4. [Documentation](#documentation)
    - Official or community-contributed documentation for GitOps tools, platforms, and frameworks, providing guidance on installation, configuration, and usage.
 
-5. **Case Studies**
+5. [Case Studies](#case-studies)
    - Real-world examples and case studies showcasing organizations' experiences and benefits of implementing GitOps practices in different environments.
 
-6. **Videos and Webinars**
+6. [Videos and Webinars](#videos-and-webinars)
    - Recorded talks, presentations, or webinars discussing GitOps concepts, tool demonstrations, case studies, and expert interviews.
 
-7. **Tutorials and Guides**
+7. [Tutorials and Guides](#tutorials-and-guides)
     - Step-by-step tutorials, guides, or manuals providing instructions on how to implement specific GitOps practices, set up tools, or solve common challenges.
 
-8. **Courses and Training Materials**
+8. [Courses and Training Materials](#courses-and-training-materials)
     - Online courses, workshops, or training materials offering structured learning paths, certifications, and hands-on exercises focused on GitOps concepts and tools.
 
 
