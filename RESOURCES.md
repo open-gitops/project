@@ -19,7 +19,7 @@ The reference material entries listed in this document are contributions coverin
 5. [Case Studies](#case-studies)
    - Real-world examples and case studies showcasing organizations' experiences and benefits of implementing GitOps practices in different environments.
 
-6. [Videos and Webinars](#videos-and-webinars)
+6. [Videos and Webinars](#video-and-webinars)
    - Recorded talks, presentations, or webinars discussing GitOps concepts, tool demonstrations, case studies, and expert interviews.
 
 7. [Tutorials and Guides](#tutorials-and-guides)
