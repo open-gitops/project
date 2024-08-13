@@ -33,7 +33,7 @@ Please [reach out in any of the available ways](https://github.com/open-gitops/.
 | content/meme | proposed | [current discussion](https://github.com/open-gitops/project/discussions/102) | <ul><li>[scottrigby](https://github.com/scottrigby)</li></ul> |
 | content/security | proposed | [current discussion](https://github.com/open-gitops/project/issues/128) | <ul><li>[roberthstrand](https://github.com/roberthstrand)</li></ul> |
 | marketing/media-fact-checking | proposed | [current discussion](https://github.com/open-gitops/project/discussions/99) | <ul><li>[@makkes](https://github.com/makkes)</li><li>[@scottrigby](https://github.com/scottrigby)</li></ul> |
-| content/patterns | proposed | [current discussion](https://github.com/open-gitops/project/discussions/177) | <ul><li>[@scottrigby](https://github.com/scottrigby)</li></ul> |
+| content/patterns | proposed | [current discussion](https://github.com/open-gitops/project/discussions/177) | <ul><li>[@christianh814](https://github.com/christianh814)</li><li>[@crenshaw-dev](https://github.com/crenshaw-dev)</li><li>[@scottrigby](https://github.com/scottrigby)</li></ul> |
 
 ## Paused teams
 
