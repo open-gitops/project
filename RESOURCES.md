@@ -38,6 +38,7 @@ The reference material entries listed in this document are contributions coverin
 | *GitOps: Cloud-native Continuous Deployment* |  Anja Kammer, Florian Beetz and Simon Harrer | July 2021 | Innoq Deutschland Gmbh | 9783982112688 |
 | *Repeatability, Reliability, and Scalability through GitOps: Continuous delivery and deployment codified* | Bryan Feuling | May 2021 | Packt | 9781801077798 |
 | *Practical Gitops: Infrastructure Management Using Terraform, Aws, and Github Actions* | Rohit Salecha | December 2022 | Apress | 9781484286722 |
+| [German] *GitOps: Grundlagen und Best Practices* | Baris Cubukcuoglu, Josia Scheitt, Johannes Schnatterer | 2024 | dpunkt.verlag | 9783864909962 |
 
 ## Research Papers 
 
